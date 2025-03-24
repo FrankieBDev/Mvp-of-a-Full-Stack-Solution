@@ -21,9 +21,10 @@ Part B - MVP of a full-stack solution
   - Room DB
   - Google Maps SDK
 ---
-
+<!--&#8203;
 ### Youtube Demo Link
 [https://youtu.be/xd-EbStBFMA](https://www.youtube.com/watch?v=SyspjHSya3w)
+-->
 
 ### Description
 
